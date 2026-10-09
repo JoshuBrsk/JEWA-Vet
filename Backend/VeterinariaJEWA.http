@@ -1,0 +1,6 @@
+@VeterinariaJEWA_HostAddress = http://localhost:5209
+
+GET {{VeterinariaJEWA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
